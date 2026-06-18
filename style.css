@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+font-family: "Inter", sans-serif;
+font-style: normal;
+
+}
+
+
+.box{
+    height: 120vh;
+    background-color: azure;
+    
+}
+.box-1{
+    background-color: aqua;
+    height: 60vh;
+    
+}
+.img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.box-2{
+    position: absolute;
+    top: 400px;
+    left: 240px;
+    height: 80px;
+    width: 1000px;
+    background-color: white;
+    border: 1px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+.b-1{position: absolute;
+    top: 660px;
+    left: 60px;
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    
+}
+.b-2{position: absolute;
+    top: 660px;
+    left: 400px;
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+   box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+
+}
+.b-3{position: absolute;
+    top: 660px;
+    left: 750px;
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+
+}
+.b-4{position: absolute;
+    top: 660px;
+    left: 1100px;
+    height: 150px;
+    width: 300px;
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+
+}
+.box-2-1{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
+.box-2-2{
+    position: absolute;
+    top: 20px;
+    left: 300px;
+}
+.box-2-3{
+    position: absolute;
+    top: 20px;
+    left: 500px;
+}
+.box-2-4{
+    position: absolute;
+    top: 20px;
+    left: 700px;
+}
+.box-2-btn{position: absolute;
+    left: 830px;
+    top: 5px;
+    height: 30px;
+    width: 80px;
+    background-color: rgb(22, 121, 98);
+    border-radius: 4px;
+    color: aliceblue;
+    border: none;
+}
+
+.p{
+    margin-top: 20px;
+    margin-left: 90px;
+   color: gray;
+}
+.h:hover{text-decoration: underline;
+text-decoration-color: rgb(88, 204, 160);
+text-decoration-thickness: 2px;}
+
+.material-symbols-outlined{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    color: rgb(74, 204, 163);
+}
